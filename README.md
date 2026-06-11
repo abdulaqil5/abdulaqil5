@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Profile Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm ABDUL AQIL</h1>
+
 <h1 align="center">Hi 👋, I'm ABDUL AQIL</h1>
 <h3 align="center">A Multimedia student with a passion for programming</h3>
 
